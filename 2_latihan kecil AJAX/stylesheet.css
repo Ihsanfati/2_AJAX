@@ -1,0 +1,54 @@
+.grass {
+    float: left;
+    margin: 5px 10px;
+    padding: 0px 15px;
+    background-color: forestgreen;
+}
+.fire {
+    float: left;
+    margin: 5px 10px;
+    padding: 0px 15px;
+    background-color: red;
+}
+.water {
+    float: left;
+    margin: 5px 10px;
+    padding: 0px 15px;
+    background-color: dodgerblue;
+}
+.bug {
+    float: left;
+    margin: 5px 10px;
+    padding: 0px 15px;
+    background-color: grey;
+}
+.normal {
+    float: left;
+    margin: 5px 10px;
+    padding: 0px 15px;
+    background-color: azure;
+}
+.poison {
+    float: left;
+    margin: 5px 10px;
+    padding: 0px 15px;
+    background-color: blueviolet;
+}
+.electric {
+    float: left;
+    margin: 5px 10px;
+    padding: 0px 15px;
+    background-color: orange;
+}
+.ground {
+    float: left;
+    margin: 5px 10px;
+    padding: 0px 15px;
+    background-color: maroon;
+}
+.id-name {
+    text-align: center;
+}
+.type {
+    text-align: center;
+}
